@@ -1,0 +1,62 @@
+name: MediaRuntime API
+description: >-
+  Asynchronous media-processing REST API for video, audio, and images — job-based transcoding, HLS/DASH packaging,
+  transcription, content moderation, watermarking, image processing, and signed delivery with webhooks. Positioned as
+  media infrastructure for apps with user uploads.
+url: https://raw.githubusercontent.com/api-evangelist/mediaruntime-api/refs/heads/main/apis.yml
+created: '2026-08-26'
+modified: '2026-08-26'
+specificationVersion: '0.21'
+tags:
+  - media processing
+  - video transcoding
+  - audio processing
+  - image processing
+  - HLS/streaming
+  - transcription
+  - content moderation
+  - watermarking
+  - asynchronous / job-based API
+  - webhooks
+  - REST API
+  - OpenAPI
+  - cloud API
+  - developer tools
+  - media infrastructure
+apis:
+  - name: MediaRuntime API
+    description: >-
+      Versioned REST API (under /v1) for media-processing jobs, reports/analysis, reusable recipes,
+      uploads/watermarking, and runtime capability discovery. Auth via X-API-Key (production) or X-Sandbox-Token
+      (sandbox). Webhooks defined for the async job/callback model.
+    humanURL: https://mediaruntime.com/en/docs
+    baseURL: https://mediaruntime.com/v1
+    tags:
+      - media processing
+      - video transcoding
+      - audio processing
+      - image processing
+      - HLS/streaming
+      - transcription
+      - content moderation
+      - watermarking
+      - asynchronous / job-based API
+      - webhooks
+      - REST API
+      - OpenAPI
+      - cloud API
+      - developer tools
+      - media infrastructure
+    properties:
+      - type: OpenAPI
+        url: https://mediaruntime.com/openapi.json
+      - type: Documentation
+        url: https://mediaruntime.com/en/docs
+maintainers:
+  - FN: Ojong Obasi
+    url: https://github.com/ericel
+generated:
+  by: apis.io/add
+  model: claude-opus-4-8
+  confidence: 95
+  at: '2026-08-26T07:59:03.795Z'
