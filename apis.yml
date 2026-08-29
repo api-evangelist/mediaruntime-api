@@ -4,6 +4,17 @@ description: >-
   transcription, content moderation, watermarking, image processing, and signed delivery with webhooks. Positioned as
   media infrastructure for apps with user uploads.
 url: https://raw.githubusercontent.com/api-evangelist/mediaruntime-api/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 created: '2026-08-26'
 modified: '2026-08-26'
 specificationVersion: '0.21'
