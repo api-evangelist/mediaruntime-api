@@ -19,6 +19,22 @@ created: '2026-08-26'
 modified: '2026-08-26'
 specificationVersion: '0.21'
 tags:
+  - Media Processing
+  - Video Transcoding
+  - Audio Processing
+  - Image Processing
+  - HLS Streaming
+  - Transcription
+  - Content Moderation
+  - Watermarking
+  - asynchronous / job-based API
+  - Webhook
+  - REST API
+  - OpenAPI
+  - Cloud API
+  - Developer Tools
+  - media infrastructure
+tags_raw:
   - media processing
   - video transcoding
   - audio processing
@@ -43,6 +59,22 @@ apis:
     humanURL: https://mediaruntime.com/en/docs
     baseURL: https://mediaruntime.com/v1
     tags:
+      - Media Processing
+      - Video Transcoding
+      - Audio Processing
+      - Image Processing
+      - HLS Streaming
+      - Transcription
+      - Content Moderation
+      - Watermarking
+      - asynchronous / job-based API
+      - Webhook
+      - REST API
+      - OpenAPI
+      - Cloud API
+      - Developer Tools
+      - media infrastructure
+    tags_raw:
       - media processing
       - video transcoding
       - audio processing
